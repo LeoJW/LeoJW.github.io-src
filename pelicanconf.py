@@ -6,6 +6,7 @@ AUTHOR = u'Leo Wood'
 SITENAME = u'LeoJW'
 SITEURL = ''
 
+THEME = "pelican-themes/pelican-blue"
 PATH = 'content'
 
 TIMEZONE = 'America/Chicago'
