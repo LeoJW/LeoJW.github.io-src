@@ -5,20 +5,27 @@ from __future__ import unicode_literals
 #Name, Basic Build and Path Info 
 AUTHOR = u'Leo Wood'
 SITENAME = u'LeoJW'
-SITEURL = ''
-THEME = "pelicanthemes/Flex"
+SITEURL = 'https://LeoJW.github.io'
+THEME = 'pelicanthemes/Flex'
 PATH = 'content'
+
+#Theme Controls
+SITETITLE = 'Leo Wood'
+SITESUBTITLE = 'MSc Student, UBC Department of Zoology'
+SITELOGO = SITEURL + '/images/profile.png'
 
 #Basic Defaults
 TIMEZONE = 'America/Chicago'
 DEFAULT_LANG = u'en'
 
-# Feed generation is usually not desired when developing
+
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
+
+STATIC_PATHS = ['images','download','pages']
 
 # Blogroll
 LINKS = (('Pelican', 'http://getpelican.com/'),
