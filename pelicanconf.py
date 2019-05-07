@@ -2,15 +2,15 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
+#Name, Basic Build and Path Info 
 AUTHOR = u'Leo Wood'
 SITENAME = u'LeoJW'
 SITEURL = ''
-
-THEME = "pelican-themes/pelican-blue"
+THEME = "pelicanthemes/Flex"
 PATH = 'content'
 
+#Basic Defaults
 TIMEZONE = 'America/Chicago'
-
 DEFAULT_LANG = u'en'
 
 # Feed generation is usually not desired when developing
