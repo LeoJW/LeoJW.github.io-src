@@ -5,14 +5,15 @@ from __future__ import unicode_literals
 #Name, Basic Build and Path Info 
 AUTHOR = u'Leo Wood'
 SITENAME = u'LeoJW'
-SITEURL = 'https://LeoJW.github.io'
+#SITEURL = 'https://LeoJW.github.io'
 THEME = 'pelicanthemes/Flex'
 PATH = 'content'
 
 #Theme Controls
 SITETITLE = 'Leo Wood'
-SITESUBTITLE = 'MSc Student, UBC Department of Zoology'
-SITELOGO = SITEURL + '/images/profile.png'
+SITESUBTITLE = 'MSc Student'
+SITEURL = 'http://localhost:8000'
+SITELOGO = SITEURL + '/images/profile.jpg'
 
 #Basic Defaults
 TIMEZONE = 'America/Chicago'
@@ -33,9 +34,6 @@ STATIC_PATHS = ['images','download','pages']
 #         ('Jinja2', 'http://jinja.pocoo.org/'),
 #         ('You can modify those links in your config file', '#'),)
 
-# Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
 
 DEFAULT_PAGINATION = False
 
