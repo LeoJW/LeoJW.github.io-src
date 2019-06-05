@@ -5,14 +5,14 @@ from __future__ import unicode_literals
 #Name, Basic Build and Path Info 
 AUTHOR = u'Leo Wood'
 SITENAME = u'LeoJW'
-#SITEURL = 'https://LeoJW.github.io'
+SITEURL = 'https://LeoJW.github.io'
+#SITEURL = 'http://localhost:8000'
 THEME = 'pelicanthemes/Flex'
 PATH = 'content'
 
 #Theme Controls
 SITETITLE = 'Leo Wood'
 SITESUBTITLE = 'MSc Student'
-SITEURL = 'http://localhost:8000'
 SITELOGO = SITEURL + '/images/profile.jpg'
 
 #Basic Defaults

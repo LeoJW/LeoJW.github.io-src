@@ -7,7 +7,7 @@ September 2018 - Present
 
 In Doug Altshuler's lab at UBC I've been studying a variety of topics on the wing musculature of birds. Avian flight is a remarkably poorly understood area that sits at the meeting point of many different complex phenomena such as unsteady aerodynamics, solid mechanics, and evolutionary biology, and the avian wing is capable of dramatic and highly dynamic changes in shape to control airflow. How this dynamic wing morphing is actually produced and modulated by the underlying muscle tissue and skeletal structure of the wing is an open mystery which presented an interesting extension of my previous research and a fascinating challenge of experimental technique. 
 
-[Spring 2019 Seminar to Zoology Department]({static}/downloads/BeersSeminar2019Spring.pdf)
+[Spring 2019 Seminar to Zoology Department]({static}/downloads/BeersSeminar2019Spring_webversion.pdf)
 
 
 
