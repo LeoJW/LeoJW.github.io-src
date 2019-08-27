@@ -30,6 +30,5 @@ May 2015 - December 2017
 	The bulk of my undergraduate research was performed in the MAESTRO Lab at Texas A&M under [Dr. Darren Hartl](https://scholar.google.com/citations?user=WqVUJmcAAAAJ&hl=en&oi=ao), working with SMAs and origami-based mechanisms. Here I ran an independent project where I designed a parallel-limb "robot" whose limbs were based on the bistable waterbomb base fold of classical origami, allowing it to switch between an open state where the mechanism could fold flat and a locked state where the mechanism self-intersected to prevent collapsing. This mechanism was a great topic of study in my undergraduate time, as it gave me the opportunity to learn how to develop working prototypes actuated by NiTi wires in torsion, as well as develop some theoretical acumen modeling the structure and analyzing the kinematics and energy landscape of its folding transitions. A final journal article on this work is still in progress, but for now I do have a (very rough) smaller work that did come out of my time in this lab.
 
 **Published Work**
-
-	(Conference Paper) [An Origami-Inspired, SMA Actuated Lifting Structure](https://asmedigitalcollection.asme.org/IDETC-CIE/proceedings-abstract/IDETC-CIE2016/50169/V05BT07A024/259345)
-
+ 
+ (Conference Paper) [An Origami-Inspired, SMA Actuated Lifting Structure] (https://asmedigitalcollection.asme.org/IDETC-CIE/proceedings-abstract/IDETC-CIE2016/50169/V05BT07A024/259345)
