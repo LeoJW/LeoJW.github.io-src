@@ -9,7 +9,7 @@ save_as: index.html
 
 <br/><br/>
 
-[Institution Email][1] \| [Personal Email][2] 
-
-[1]: mailto:leo.w@zoology.ubc.ca
-[2]: mailto:leo@woodtx.com
+<p align="center">
+	<a href="mailto:leo.w@zoology.ubc.ca">Institution Email</a> |
+	<a href="mailto:leo@woodtx.com">Personal Email</a>
+</p>
