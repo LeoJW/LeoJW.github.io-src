@@ -19,9 +19,9 @@ I was fortunate enough to spend a number of internships working in the High Temp
 
 **Published Work:**
 
-  (Journal Article) [Laser Welding of precipitation strengthened Ni-rich NiTiHf high temperature shape memory alloys: Microstructure and mechanical properties](https://www.researchgate.net/publication/329220483_Laser_welding_of_precipitation_strengthened_Ni-rich_NiTiHf_high_temperature_shape_memory_alloys_Microstructure_and_mechanical_properties)
+(Journal Article) [Laser Welding of precipitation strengthened Ni-rich NiTiHf high temperature shape memory alloys: Microstructure and mechanical properties]({static}/downloads/oliveira2018laserweld.pdf)
 
-  (Internal Report) [Ruggedness Evaluation of ASTM Standard E3097 Standard Test Method for Mechanical Uniaxial Constant Force Thermal Cycling of Shape Memory Alloys](https://ntrs.nasa.gov/search.jsp?R=20190001450)
+(Internal Report) [Ruggedness Evaluation of ASTM Standard E3097 Standard Test Method for Mechanical Uniaxial Constant Force Thermal Cycling of Shape Memory Alloys]({static}/downloads/benafan2019ruggedness.pdf)
 
 
 
@@ -33,4 +33,4 @@ The bulk of my undergraduate research was performed in the MAESTRO Lab at Texas 
 
 **Published Work:**
 
- (Conference Paper) [An Origami-Inspired, SMA Actuated Lifting Structure](https://asmedigitalcollection.asme.org/IDETC-CIE/proceedings-abstract/IDETC-CIE2016/50169/V05BT07A024/259345)
+(Conference Paper) [An Origami-Inspired, SMA Actuated Lifting Structure]({static}/downloads/wood2016origami.pdf)
