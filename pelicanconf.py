@@ -5,8 +5,8 @@ from __future__ import unicode_literals
 #Name, Basic Build and Path Info 
 AUTHOR = u'Leo Wood'
 SITENAME = u'LeoJW'
-#SITEURL = 'https://LeoJW.github.io'
-SITEURL = 'http://localhost:8000'
+SITEURL = 'https://LeoJW.github.io'
+#SITEURL = 'http://localhost:8000'
 THEME = 'pelicanthemes/Flex'
 PATH = 'content'
 
