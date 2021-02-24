@@ -12,7 +12,7 @@ PATH = 'content'
 
 #Theme Controls
 SITETITLE = 'Leo Wood'
-SITESUBTITLE = 'MSc Student'
+SITESUBTITLE = 'PhD Student'
 SITELOGO = SITEURL + '/images/profile.jpg'
 
 #Basic Defaults

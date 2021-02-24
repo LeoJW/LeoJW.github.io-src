@@ -12,7 +12,7 @@ In [Doug Altshuler's](https://scholar.google.com/citations?user=EVACejsAAAAJ&hl=
 How this dynamic wing morphing is actually produced and modulated by the underlying muscle tissue and skeletal structure of the wing is an open mystery, so I've been working on a study where I take an important and highly unusual muscle system, the elbow flexion system, and reverse-engineer its temporal tuning, dynamic behaviours, evolutionary history, and overall role in tuning wing kinematics. This project has been a blast because I've been able to combine a huge variety of techniques, including gathering electromyography and kinematics data from birds *in vivo*, characterizing muscle-tendon systems *in vitro*, studying morphometric data with phylogenetic comparative methods, and mechanical modeling, all in service to a unifying hypothesis. 
 
 [Spring 2019 Seminar to Zoology Department]({static}/downloads/BeersSeminar2019Spring_webversion.pdf)
-[Spring 2020 Seminar to Zoology Department]({static}/downloads/BeersSeminar2020Spring_webversion.pdf)
+[Spring 2020 Seminar to Zoology Department]({static}/downloads/BeersSeminar2020_webversion.pdf)
 
 
 
