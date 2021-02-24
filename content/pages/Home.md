@@ -12,9 +12,9 @@ save_as: index.html
 
 [Institution Email][1]
 
-[Personal Email][1]
+[Personal Email][2]
 
-[Github][2]
+[Github][3]
 
 [Resume/CV]({static}/downloads/Resume2021.pdf)
 
@@ -23,4 +23,5 @@ save_as: index.html
 
 
 [1]: mailto:leo.w@gatech.edu
-[2]: https://github.com/LeoJW
+[2]: mailto:leo@woodtx.com
+[3]: https://github.com/LeoJW
