@@ -14,6 +14,7 @@ How this dynamic wing morphing is actually produced and modulated by the underly
 The final paper is in progress, with some exciting discoveries of really unusual muscular systems, but for now there's some small seminars covering parts of the overall work I can share:
 
 [Spring 2019 Seminar to Zoology Department]({static}/downloads/BeersSeminar2019Spring_webversion.pdf)
+
 [Spring 2020 Seminar to Zoology Department]({static}/downloads/BeersSeminar2020_webversion.pdf)
 
 

@@ -26,7 +26,7 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
-STATIC_PATHS = ['images','download','pages']
+STATIC_PATHS = ['images','downloads','pages']
 
 # Blogroll
 #LINKS = (('Pelican', 'http://getpelican.com/'),
@@ -38,4 +38,4 @@ STATIC_PATHS = ['images','download','pages']
 DEFAULT_PAGINATION = False
 
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+RELATIVE_URLS = True
